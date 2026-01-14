@@ -1,3 +1,8 @@
+<img width="1440" height="1278" alt="absoluteclover" src="https://github.com/user-attachments/assets/5b5448f8-ba98-472f-bc0c-fbb1dcc16ba1" />
+
+
+
+
 ## Hi there 😁
 
 - I’m currently working on Clover - Space Station 14 HRP! Check it out today: https://github.com/ivomink/clover-14
