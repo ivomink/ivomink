@@ -1,4 +1,4 @@
-<img width="440"  alt="absoluteclover" src="https://github.com/user-attachments/assets/5b5448f8-ba98-472f-bc0c-fbb1dcc16ba1" />
+<img width="900" height="724" alt="Frost Giant Ymir by AniaArtNL, DeviantArt" src="https://github.com/user-attachments/assets/d47507a9-351e-47a2-8723-5354eb6f4882" />
 
 
 
