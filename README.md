@@ -5,7 +5,7 @@
 
 ## Hi there 😁
 
-- I’m currently working on Clover - Space Station 14 HRP! Check it out today: https://github.com/ivomink/Clover
+- I’m currently working on Clover - Space Station 14 HRP!
 - Feel free to DM me on matters on my Discord, either  **@ivomink** or **@ivosln**. Doesn't matter!
 - My steam is https://steamcommunity.com/id/ivomink
 
