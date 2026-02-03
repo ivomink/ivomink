@@ -1,11 +1,11 @@
-<img width="900" height="724" alt="Frost Giant Ymir by AniaArtNL, DeviantArt" src="https://github.com/user-attachments/assets/d47507a9-351e-47a2-8723-5354eb6f4882" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9337fa78-ce55-4087-b143-61e11061c52d" />
 
 
 
 
 ## Hi there 😁
 
-- I’m currently working on YmirLight - Space Station 14 HRP! Check it out today: https://github.com/YmirNetwork/YmirLight
+- I’m currently working on Clover - Space Station 14 HRP! Check it out today: https://github.com/ivomink/Clover
 - Feel free to DM me on matters on my Discord, either  **@ivomink** or **@ivosln**. Doesn't matter!
 - My steam is https://steamcommunity.com/id/ivomink
 
