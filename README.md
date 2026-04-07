@@ -1,11 +1,5 @@
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/9337fa78-ce55-4087-b143-61e11061c52d" />
-
-
-
-
 ## Hi there 😁
 
-- I’m currently working on Clover - Space Station 14 HRP!
 - Feel free to DM me on matters on my Discord, either  **@ivomink** or **@ivortai**. Doesn't matter!
 - My steam is https://steamcommunity.com/id/ivomink
 
