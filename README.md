@@ -1,9 +1,13 @@
 ## Hi there 😁
 
-- Feel free to DM me on matters on my Discord, either  **@ivomink** or **@ivortai**. Doesn't matter!
+- Feel free to DM me on matters on my Discord, either  **@ivomink**.
 - My steam is https://steamcommunity.com/id/ivomink
+- My telegram is https://t.me/ivomink/
+- My matrix is ivomink:matrix.org
 
-- Ask me about my music preferences!
-- I am a drummer and saxophonist for 9 years.
+I use:
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/d053c693-1541-4562-aba9-5e55fbb0e3c5" />
+- Gentoo Linux on my Twinkpad x250 
+- Arch Linux on my gaming main rig (specs given later) 
+- Debian Linux on my main HP laptop
+- Zerene Linux on my secondary HP laptop (in development)
