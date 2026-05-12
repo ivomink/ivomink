@@ -7,7 +7,7 @@
 
 I use:
 
-- Gentoo Linux on my Twinkpad x250 
+- Gentoo Linux on my Twinkpad x250 ![image](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
 - Arch Linux on my gaming main rig (specs given later) 
 - Debian Linux on my main HP laptop
 - Zerene Linux on my secondary HP laptop (in development)
