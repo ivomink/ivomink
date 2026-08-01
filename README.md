@@ -7,6 +7,6 @@
 
 I use:
 
-- Gentoo Linux on my Twinkpad x250 ![image](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
+- NixOS on my Twinkpad x250
 - Arch Linux on my gaming main rig (specs given later) 
 - Fedora Linux on my main HP laptop
