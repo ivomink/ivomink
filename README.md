@@ -7,6 +7,6 @@
 
 I use:
 
-- NixOS on my Twinkpad x250
-- Arch Linux on my gaming main rig (specs given later) 
+- Linux Mint on my Twinkpad x250
+- NixOS on my gaming main rig (specs given later) 
 - Fedora Linux on my main HP laptop
